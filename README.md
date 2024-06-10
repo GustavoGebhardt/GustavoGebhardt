@@ -1,6 +1,6 @@
-# Olá! Eu sou [Seu Nome] 👋
+# Olá! Eu sou o Gustavo 👋
 
-Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por [sua área de especialização, por exemplo, desenvolvimento web, ciência de dados, inteligência artificial] e adoro criar soluções inovadoras e eficientes. Aqui você encontrará alguns dos projetos nos quais tenho trabalhado.
+Sou um desenvolvedor apaixonado por desenvolvimento web e redes de computadores. Aqui você encontrará alguns dos projetos nos quais tenho trabalhado.
 
 ## Sobre Mim
 
