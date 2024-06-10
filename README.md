@@ -8,7 +8,7 @@ Sou um desenvolvedor apaixonado por desenvolvimento web, segurança da informaç
 - 💼 **Trabalho:** Desenvolvedor Full stack na Tecnogate
 - 🌱 **Aprendendo atualmente:** React, React Native, Next JS, Nest
 - 📫 **Como me contatar:** gustavorgebhardt@gmail.com
-- ⚡ **Fato curioso:** Sou apaixonado por culinaria e videogames
+- ⚡ **Fato curioso:** Sou apaixonado por Culinaria e Engimas
 
 ## Tecnologias e Ferramentas
 
