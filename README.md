@@ -4,8 +4,8 @@ Sou um desenvolvedor apaixonado por desenvolvimento web, segurança da informaç
 
 ## Sobre Mim
 
-- 🎓 **Educação:** Cursando 3º ano em Técninco em Informatica/Ensino medio pela IFRS - Campus Feliz
-- 💼 **Trabalho:** [Seu cargo] na [Sua empresa]
+- 🎓 **Educação:** 3º ano do Técninco em Informatica IFRS - Campus Feliz
+- 💼 **Trabalho:** Desenvolvedor Full stack na Tecnogate
 - 🌱 **Aprendendo atualmente:** [Tecnologias ou tópicos que você está aprendendo]
 - 📫 **Como me contatar:** [Seu e-mail ou outras formas de contato]
 - ⚡ **Fato curioso:** [Um fato interessante sobre você]
