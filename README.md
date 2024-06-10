@@ -1,10 +1,10 @@
 # Olá! Eu sou o Gustavo 👋
 
-Sou um desenvolvedor apaixonado por desenvolvimento web e redes de computadores. Aqui você encontrará alguns dos projetos nos quais tenho trabalhado.
+Sou um desenvolvedor apaixonado por desenvolvimento web, segurança da informação e redes de computadores. Aqui você encontrará alguns dos projetos nos quais tenho trabalhado.
 
 ## Sobre Mim
 
-- 🎓 **Educação:** [Seu grau] em [Sua área] pela [Sua universidade]
+- 🎓 **Educação:** Cursando 3º ano em Técninco em Informatica/Ensino medio pela IFRS - Campus Feliz
 - 💼 **Trabalho:** [Seu cargo] na [Sua empresa]
 - 🌱 **Aprendendo atualmente:** [Tecnologias ou tópicos que você está aprendendo]
 - 📫 **Como me contatar:** [Seu e-mail ou outras formas de contato]
