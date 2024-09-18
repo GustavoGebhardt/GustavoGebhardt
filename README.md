@@ -21,22 +21,6 @@ Sou um desenvolvedor apaixonado por desenvolvimento web, segurança da informaç
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Projetos Destacados
-
-### [Projeto 1: Nome do Projeto](link para o projeto)
-Descrição breve do projeto. O que ele faz, quais tecnologias foram usadas e qualquer outra informação relevante.
-
-### [Projeto 2: Nome do Projeto](link para o projeto)
-Descrição breve do projeto. O que ele faz, quais tecnologias foram usadas e qualquer outra informação relevante.
-
-### [Projeto 3: Nome do Projeto](link para o projeto)
-Descrição breve do projeto. O que ele faz, quais tecnologias foram usadas e qualquer outra informação relevante.
-
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical)
-
 ## Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-roloff-gebhardt/)
