@@ -1,6 +1,6 @@
 # Bem vindo! 👋
 
-Sou um desenvolvedor apaixonado por desenvolvimento web, segurança da informação e redes de computadores. Aqui você encontrará alguns dos projetos nos quais tenho trabalhado.
+Sou um apaixonado por desenvolvimento web, segurança da informação e redes de computadores. Aqui você encontrará alguns dos projetos nos quais tenho trabalhado.
 
 ## Sobre Mim
 
