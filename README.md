@@ -5,7 +5,7 @@ Sou um apaixonado por desenvolvimento web, segurança da informação e redes de
 ## Sobre Mim
 
 - 🎓 **Educação:** 3º ano do Técninco em Informatica IFRS - Campus Feliz
-- 💼 **Trabalho:** Desenvolvedor Full stack na Tecnogate
+- 💼 **Trabalho:** Desenvolvedor Full stack na Empresa Tecnogate
 - 🌱 **Aprendendo atualmente:** React, React Native, Next JS, Nest
 - 📫 **Como me contatar:** gustavorgebhardt@gmail.com
 - ⚡ **Fato curioso:** Sou apaixonado por Culinaria e Engimas
