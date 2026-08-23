@@ -22,6 +22,10 @@ Hoje curso Análise e Desenvolvimento de Sistemas no IFRS.
 ### Interfaces de linguagem natural
 
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-1F1F1F?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![AWS AgentCore](https://img.shields.io/badge/AWS_AgentCore_Runtime-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 
